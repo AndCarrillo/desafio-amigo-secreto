@@ -18,4 +18,20 @@ function agregarAmigo() {
 
   // Limpiar el campo de entrada
   input.value = "";
+  // Actualizar la lista en pantalla
+  actualizarListaAmigos();
+}
+
+// Función para actualizar la lista de amigos en el HTML
+function actualizarListaAmigos() {
+  // Obtener el elemento de la lista
+  const lista = document.getElementById("listaAmigos");
+  // Limpiar la lista existente
+  lista.innerHTML = "";
+  // Iterar sobre el arreglo y agregar elementos
+  for (let i = 0; i < amigos.length; i++) {
+    const li = document.createElement("li");
+    li.textContent = amigos[i];
+    lista.appendChild(li);
+  }
 }
