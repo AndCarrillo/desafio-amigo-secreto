@@ -1,3 +1,7 @@
+# 🚀 Prueba la aplicación en línea
+
+[Ver demo en GitHub Pages](https://andcarrillo.github.io/desafio-amigo-secreto/amigo-secreto_esp/)
+
 # Amigo Secreto
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -40,4 +44,6 @@ Cada carpeta contiene los archivos principales:
 
 Este proyecto fue desarrollado como parte del desafío "Amigo Secreto" del programa Oracle Next Education (ONE), en colaboración con Alura Latam.
 
-<img src="assets/ONE-logo.png" alt="ONE Logo" width="60"/> + <img src="assets/alura-latam-logo.png" alt="Alura Latam Logo" width="40"/>
+<div style="background-color:#a5cad2; padding:8px; border-radius:8px; display:inline-block;">
+	<img src="assets/ONE-logo.png" alt="ONE Logo" width="60"/> + <img src="assets/alura-latam-logo.png" alt="Alura Latam Logo" width="40"/>
+</div>
