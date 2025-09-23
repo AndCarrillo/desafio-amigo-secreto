@@ -1,7 +1,3 @@
-# 🚀 Prueba la aplicación en línea
-
-[Ver demo en GitHub Pages](https://andcarrillo.github.io/desafio-amigo-secreto/amigo-secreto_esp/)
-
 # Amigo Secreto
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -10,6 +6,14 @@
 
 ![Portada Amigo Secreto](./assets/portada.PNG)
 Este proyecto es una aplicación web sencilla para organizar un sorteo de "amigo secreto" entre amigos.
+
+---
+
+### 🔗 Demo en línea
+
+[Accede aquí a la aplicación](https://andcarrillo.github.io/desafio-amigo-secreto/amigo-secreto_esp/)
+
+---
 
 ## Descripción
 
