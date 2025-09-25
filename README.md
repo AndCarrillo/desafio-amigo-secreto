@@ -5,49 +5,56 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
 ![Portada Amigo Secreto](./assets/portada.PNG)
-Este proyecto es una aplicación web sencilla para organizar un sorteo de "amigo secreto" entre amigos.
-
----
-
-### 🔗 Demo en línea
-
-[Accede aquí a la aplicación](https://andcarrillo.github.io/desafio-amigo-secreto/amigo-secreto_esp/)
-
----
 
 ## Descripción
 
-Permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleatorio para determinar quién será el "amigo secreto". La interfaz es sencilla y amigable, ideal para reuniones y celebraciones.
+Aplicación web para organizar sorteos de "amigo secreto" de forma rápida, divertida y personalizada. Permite ingresar participantes, valida entradas y realiza el sorteo automáticamente con resultados únicos. Ideal para celebraciones y reuniones.
 
-## Funcionalidades
+---
 
-- **Agregar nombres:** Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible haciendo clic en el botón "Agregar".
-- **Validar entrada:** Si el campo de texto está vacío, el programa muestra una alerta solicitando un nombre válido.
-- **Visualizar la lista:** Los nombres ingresados aparecen en una lista debajo del campo de entrada.
-- **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
+## 🔗 Demos web
 
-## Estructura del proyecto
+- [Versión estándar (español)](https://andcarrillo.github.io/desafio-amigo-secreto/amigo-secreto_esp/)
+- [Versión personalizada Pokémon](https://andcarrillo.github.io/desafio-amigo-secreto/amigo-secreto_personalizado/)
 
-- `amigo-secreto_esp/`: Versión plantilla en español.
-- `amigo-secreto_personalizado/`: Versión interfaz personalizada.
+---
 
-Cada carpeta contiene los archivos principales:
+## 🚀 Características principales
 
-- `index.html`: Página principal de la aplicación.
-- `app.js`: Lógica de la aplicación.
-- `style.css`: Estilos visuales.
-- `assets/`: Imágenes y recursos gráficos.
+- Validación automática y sorteo único.
+- Interfaz personalizable y visualmente atractiva.
+- Animaciones de confeti y sonidos de interacción en la versión personalizada.
+- Fácil de usar en cualquier evento.
 
-## Cómo usar
+## 🗂️ Estructura del proyecto
 
-1. Abre el archivo `index.html` en tu navegador.
-2. Ingresa los nombres de los participantes y haz clic en "Agregar".
-3. Cuando todos los nombres estén en la lista, haz clic en "Sortear Amigo" para ver el resultado.
+- `amigo-secreto_esp/`: Versión estándar en español.
+- `amigo-secreto_personalizado/`: Versión avanzada con estilos Pokémon, fuente especial, efectos visuales, sonidos y animación de confeti.
+  - `index.html`: Página principal.
+  - `app.js`: Lógica de la aplicación.
+  - `style.css`: Estilos visuales.
+  - `assets/`: Imágenes, sonidos y recursos gráficos.
 
-## Créditos
+---
 
-Este proyecto fue desarrollado como parte del desafío "Amigo Secreto" del programa Oracle Next Education (ONE), en colaboración con Alura Latam.
+## 🖼️ Vista personalizada
+
+<img src="amigo-secreto_personalizado/assets/Preview_custom.gif" alt="Vista previa interfaz personalizada" />
+
+---
+
+## 🛠️ Cómo usar
+
+1. Clona el repositorio o descarga los archivos.
+2. Abre `index.html` en tu navegador preferido.
+3. Ingresa los nombres y realiza el sorteo.
+
+---
+
+## 👥 Créditos
+
+Proyecto desarrollado para el desafío "Amigo Secreto" de Oracle Next Education (ONE) y Alura Latam.
 
 <div style="background-color:#a5cad2; padding:8px; border-radius:8px; display:inline-block;">
-	<img src="assets/ONE-logo.png" alt="ONE Logo" width="60"/> + <img src="assets/alura-latam-logo.png" alt="Alura Latam Logo" width="40"/>
+    <img src="assets/ONE-logo.png" alt="ONE Logo" width="60"/> + <img src="assets/alura-latam-logo.png" alt="Alura Latam Logo" width="40"/>
 </div>
